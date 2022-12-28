@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RayMroczek
 - 👀 I’m interested in Python, R, and prompting/collaborating with AI generators
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on collection, curration, and recommendation projects
+- 💞️ I’m looking to collaborate on collection, curation, and recommendation projects
 - 📫 How to reach me - <a href="https://www.linkedin.com/in/r-mroczek">linkedin</a>
 
 <!---
